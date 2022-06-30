@@ -1,5 +1,5 @@
-CREATE DATABASE wireable
-CREATE TABLE BackEndProject(
+CREATE DATABASE wireableProject
+CREATE TABLE backendapp(
 	id INT NOT NULL PRIMARY KEY,
 	username nvarchar(50) NOT NULL,
 	password nvarchar(50) NOT NULL,
